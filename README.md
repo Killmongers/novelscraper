@@ -1,1 +1,1 @@
-# novelscraper
+# novelscraper only for novelbin.com
